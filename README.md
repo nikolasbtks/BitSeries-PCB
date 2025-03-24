@@ -16,3 +16,5 @@ This series ia a collection of custom development boards built for IoT applicati
 ## About BitSeries
 
 You can check the schematics and pinout for each board in its respective directory, which includes documentation and resources.
+
+Current Repository Version: 1.0
